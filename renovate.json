@@ -3,7 +3,7 @@
         {
             "updateTypes": ["patch"],
             "automerge": true,
-            "groupName": "dependencies (patch)"
+            "description": "dependencies (patch)"
         }
     ],
     "gitLabAutomerge": true,
