@@ -1,0 +1,13 @@
+{
+    "packageRules": [
+        {
+            "updateTypes": ["patch"],
+            "automerge": true,
+            "groupName": "dependencies (patch)"
+        }
+    ],
+    "gitLabAutomerge": true,
+    "semanticCommitScope": null,
+    "semanticCommits": true,
+    "semanticCommitType": "Upgrade"
+}
