@@ -9,5 +9,5 @@
     "gitLabAutomerge": true,
     "semanticCommitScope": null,
     "semanticCommits": true,
-    "semanticCommitType": "Upgrade"
+    "semanticCommitType": "upgrade"
 }
