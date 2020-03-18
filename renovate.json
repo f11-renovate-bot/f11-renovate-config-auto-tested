@@ -9,5 +9,6 @@
     "gitLabAutomerge": true,
     "semanticCommitScope": null,
     "semanticCommits": true,
-    "semanticCommitType": "upgrade"
+    "semanticCommitType": "upgrade",
+    "prHourlyLimit": 5
 }
