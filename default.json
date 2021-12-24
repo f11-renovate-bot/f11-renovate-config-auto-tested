@@ -1,0 +1,14 @@
+{
+    "packageRules": [
+        {
+            "updateTypes": ["minor", "patch"],
+            "automerge": true,
+            "description": "dependencies (patch)"
+        }
+    ],
+    "gitLabAutomerge": true,
+    "semanticCommitScope": null,
+    "semanticCommits": true,
+    "semanticCommitType": "upgrade",
+    "prHourlyLimit": 5
+}
